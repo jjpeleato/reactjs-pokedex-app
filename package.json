@@ -45,5 +45,10 @@
     "globals": "^15.14.0",
     "husky": "^9.1.7",
     "vite": "^6.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
