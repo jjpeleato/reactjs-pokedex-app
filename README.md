@@ -1,6 +1,6 @@
 # Pokédex
 
-An example created in React.js + Vite with connection to PokéAPI.
+An example created in React.js + Vite with connection to [PokéAPI](https://pokeapi.co/).
 
 ## Project
 
@@ -51,6 +51,7 @@ For more information visit:
 ### Developing with Yarn
 
 - Open your terminal and navigate to the root directory of your project.
+- Copy the `.env.dist` file to `.env`.
 - If required. Run: `$yarn install --dev`.
 - Yarn actions commands list:
   - `$yarn build` Runs the vite build command to build the production-ready version of the application.
